@@ -19,8 +19,7 @@
 
 - 👨‍💻 Proactive and dedicated **Software Engineer** with a strong foundation in **Blockchain Technology, Computer Networking, Database Management, and Web Design**.
 - 🧠 Hands-on experience in **Artificial Intelligence**, including **Machine Learning** and **Generative AI**, familiar with **TensorFlow**.
-- ☁️ Actively engaged with **Google Cloud Skill Boost**, especially via the **Arcade Games** gamified learning platform.
-- 🌍 Outside of work, I love **meeting new people** and **exploring different perspectives**.
+- 🌍 Outside of work, I enjoy **meeting new people** and **exploring different perspectives**.
 - 🚀 Open to opportunities where I can contribute to **innovative projects**, **grow with passionate teams**, and **continually expand my tech stack**.
 
 ---
@@ -42,7 +41,7 @@
 **PrepInsta** · *Internship*  
 📅 *Dec 2023 – Feb 2024 · 3 mos*  
 🌐 *Remote – Noida, Uttar Pradesh*  
-> Analyzed datasets to derive actionable insights and improve data understanding.
+> Assisted in Data pre-processing and EDA, Analyzed datasets to derive actionable insights and improve data understanding.
 
 **Skills Used:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -72,20 +71,21 @@
 ### 🏆 **Achievements**
 
 - 📈 Achieved **100K+ impressions** on LinkedIn  
-- 📄 Completed **2 Research Papers** in **Artificial Intelligence** and **Blockchain Technologies**  
+- 📄 Completed **2 Research Papers** in **Artificial Intelligence** and **Blockchain Technologies** 
+- 👨‍🏫 Guided **30+ students** in their self-advancement through mentorship
+- 🛠️ Successfully addressed and resolved **700+ grievances** with an **85% satisfaction rate** 
 - 🥇 **Ranked 1st** in KL University Engineering Entrance Test (KL-ECET) - 2022  
 - 📊 Placed in the **Top 14.3%** in Polytechnic-AP Entrance Test - 2019  
-- 🏅 Served as **Games Secretary** (2017–2018)  
-- 🏃‍♂️ Winner of **Athletic Games** (2018–2019)  
-- 👨‍🏫 Guided **30+ students** in their self-advancement through mentorship  
-- 🛠️ Successfully addressed and resolved **700+ grievances** with an **85% satisfaction rate**
+- 🏅 Office-bearer,**Games Secretary** (2017–2018)  
+- 🏃‍♂️ Winner of **Athletic Games** (2018–2019) 
 
 ---
 
 ### 💡 **Fun Fact**
 
-> 🧠 *“I don’t just write code — I design systems that think, scale, and evolve.”*
+> 🧠 *“I don’t just write code — I design systems that think, learn, and adapt.”*
 
-⚙️ Whether it’s **Cloud**, **DevOps**, or **Blockchain**, I turn caffeine into scalable solutions ☕⚡
+⚙️ Whether it’s **AI**, **Cloud**, or **Blockchain**, I turn caffeine into intelligent solutions ☕🤖
+
 
 ---
