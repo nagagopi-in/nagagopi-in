@@ -55,12 +55,12 @@
 ---
 #### 🎮 Active Contributor – Google Cloud Arcade  
 - Continuously learning through gamified projects and labs  
-- 🔗 [My Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/547c9b04-c37b-4377-bfa9-f11106f2b399)
+- 🔗 [Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/547c9b04-c37b-4377-bfa9-f11106f2b399)
 ---
 #### 🎨 Web Designer  
 **#INCLUDE 2024 – National Level Technical Fest, KL University**  
 📅 *Feb 2024 – Mar 2024 · 2 mos*  
-> Designed and built a responsive event management site using modern tech stacks.
+> Developed and designed a fully responsive web application using modern tech stack to manage events, registrations and announcements for the fest.
 
 **Skills Used:**
 ![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=flat&logo=react&logoColor=61DAFB)
