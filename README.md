@@ -8,7 +8,7 @@
   <a href="https://www.researchgate.net/profile/Naga-Gopi-Chappidi">
     <img src="https://img.shields.io/badge/Research%20Profile-blueviolet?style=for-the-badge&logo=researchgate&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/nagagopi_277/">
+  <a href="https://leetcode.com/u/nagagopi-in/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
