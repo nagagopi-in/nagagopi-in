@@ -19,7 +19,7 @@
 
 - 👨‍💻 Proactive and dedicated **Software Engineer** with a strong foundation in **Blockchain Technology, Computer Networking, Database Management, and Web Design**.
 - 🧠 Hands-on experience building AI solutions, with applications in Machine Learning, Generative AI, and TensorFlow.
-- 🚀 Open to opportunities where I can contribute to **innovative projects**, **grow with passionate teams**, and **continually expand my tech stack**.
+- 🌎 I’m open to opportunities where I can contribute to innovative projects, grow alongside a passionate team, and continue expanding my skill set in the tech space.
 
 ---
 
