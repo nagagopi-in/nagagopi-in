@@ -17,15 +17,32 @@
 
 ### 🌟 **Synopsis**
 
-- 👨‍💻 **Software Developer** with a strong foundation in **Blockchain Technology, Computer Networking, Database Management, and Web Design**.
+- 👨‍💻 **Software Engineer** with a strong foundation in **Blockchain Technology, Computer Networking, Database Management, and Web Design**.
 - 🧠 Hands-on experience building AI solutions, with applications in Machine Learning, Generative AI, and TensorFlow.
 - 🌎 I’m open to opportunities where I can contribute to innovative projects, grow alongside a passionate team, and continue expanding my skill set in the tech space.
 
 ---
-
 ### 💼 **Experience**
 
-#### 🧩 Alumni Relations Advisor  
+#### Web Developer  
+**Freelance**  
+📅 *Aug 2025 – Present · 3 mos*  
+> Deliver end-to-end web solutions with responsive, user-friendly designs.  
+> Research and implement the most suitable technologies to provide tailored, scalable solutions.  
+> Collaborate with clients to turn requirements into functional, maintainable applications.
+
+**Skills Used:**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Google App Engine](https://img.shields.io/badge/Google_App_Engine-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/Google_Cloud_Storage-1a73e8?style=flat&logo=google-cloud&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+#### Alumni Relations Advisor  
 **FOCUS – KL University**  
 📅 *Jun 2023 – May 2025 · 2 yrs*  
 📍 *KL University*  
@@ -36,7 +53,7 @@
 - Assisted in examination preparation and coordinated placement-readiness initiatives.
 - Managed student grievance redressal mechanisms and organized cultural activities.
 ---
-#### 📊 Data Analyst Trainee  
+#### Data Analyst Trainee  
 **PrepInsta** · *Internship*  
 📅 *Dec 2023 – Feb 2024 · 3 mos*  
 🌐 *Remote – Noida, Uttar Pradesh*  
@@ -55,18 +72,6 @@
 - Continuously learning through gamified projects and labs  
 - 🔗 [Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/547c9b04-c37b-4377-bfa9-f11106f2b399)
 ---
-#### 🎨 Web Designer  
-**#INCLUDE 2024 – National Level Technical Fest, KL University**  
-📅 *Feb 2024 – Mar 2024 · 2 mos*  
-> Developed and designed a fully responsive web application using modern tech stack to manage events, registrations and announcements for the fest.
-
-**Skills Used:**
-![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
----
-
 ### 🏆 **Achievements**
 
 - 📈 Achieved **100K+ impressions** on LinkedIn  
