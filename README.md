@@ -18,7 +18,7 @@
 ### 🌟 **Synopsis**
 
 - 👨‍💻 **Software Engineer** with a strong foundation in **Blockchain Technology, Computer Networking, Database Management, and Web Development**.
-- 🧠 Experience in building AI solutions, with applications in Machine Learning, Generative AI, and TensorFlow.
+- 🧠 Experience in building AI solutions, with applications in Machine Learning, NLP, Gen AI and TensorFlow.
 - 🌎 I’m open to opportunities where I can contribute to innovative projects, grow alongside a passionate team, and continue expanding my skill set in the tech space.
 
 ---
