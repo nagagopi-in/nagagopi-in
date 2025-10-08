@@ -79,9 +79,9 @@
 - 👨‍🏫 Guided **30+ students** in their self-advancement through mentorship
 - 🛠️ Successfully addressed and resolved **700+ grievances** with an **85% satisfaction rate** 
 - 🥇 **Ranked 1st** in KL University Engineering Entrance Test (KL-ECET) - 2022  
-- 📊 Placed in the **Top 14.3%** in Polytechnic-AP Entrance Test - 2019  
-- 🏅 Office-bearer,**Games Secretary** (2017–2018)  
+- 📊 Placed in the **Top 14.3%** in Polytechnic-AP Entrance Test - 2019
 - 🏃‍♂️ Winner of **Athletic Games** (2018–2019) 
+- 🏅 Office-bearer,**Games Secretary** (2017–2018)  
 
 ---
 
