@@ -46,12 +46,12 @@
 **FOCUS – KL University**  
 📅 *Jun 2023 – May 2025 · 2 yrs*  
 📍 *KL University*  
-> As a member of the **Forum Of Computer Upcoming Scholars (FOCUS)** — the official student body of the CSE Department at KL University — I played an active role in fostering meaningful interaction between students and faculty. The core objective was to support students across various dimensions, including academic growth, technical skill-building, examination readiness, placement preparation, grievance redressal, and cultural involvement.
+> As a member of the **Forum Of Computer Upcoming Scholars (FOCUS)** — the official student body of the CSE Department. The core objective was to support students across various dimensions, including academic growth, technical skill-building, examination readiness, placement preparation, grievance redressal, and cultural activities involvement.
 
-**🔧 Roles & Contributions:**
-- Facilitated academic support sessions and skill enhancement workshops.
-- Assisted in examination preparation and coordinated placement-readiness initiatives.
-- Managed student grievance redressal mechanisms and organized cultural activities.
+**🔧 Contributions:**
+- Organized 10+ events (hackathons and learnathons).
+- Chief Designing for 𝗢𝗵𝗮𝘆𝗼𝘂 𝗝𝗮𝗽𝗮𝗻 International Fest.
+- Web Designer for #𝗶𝗻𝗰𝗹𝘂𝗱𝗲 technical Fest.
 ---
 #### Data Analyst Trainee  
 **PrepInsta** · *Internship*  
