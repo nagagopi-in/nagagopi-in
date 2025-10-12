@@ -24,7 +24,7 @@
 ---
 ### 💼 **Experience**
 
-#### Web Developer  
+#### Web Application Developer
 **Freelance**  
 📅 *July 2025 – Present · 4 mos*  
 > Deliver end-to-end web solutions with clean architecture, responsive design, and a seamless user experience.  
