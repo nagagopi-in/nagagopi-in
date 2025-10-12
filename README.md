@@ -45,7 +45,7 @@
 ---
 
 #### Alumni Relations Advisor  
-**FOCUS – KL University**  
+**FOCUS** 
 📅 *Jun 2023 – May 2025 · 2 yrs*  
 📍 *KL University*  
 > As a member of the **Forum Of Computer Upcoming Scholars (FOCUS)** — the official student body of the CSE Department. The core objective was to support students across various dimensions, including academic growth, technical skill-building, examination readiness, placement preparation, grievance redressal, and cultural activities involvement.
