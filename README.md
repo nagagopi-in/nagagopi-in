@@ -26,7 +26,7 @@
 
 #### Web Developer  
 **Freelance**  
-📅 *Aug 2025 – Present · 3 mos*  
+📅 *July 2025 – Present · 4 mos*  
 > Deliver end-to-end web solutions with responsive, user-friendly designs.  
 > Research and implement suitable technologies to build tailored, scalable web applications.
 > Collaborate with clients to turn requirements into functional, maintainable applications.
