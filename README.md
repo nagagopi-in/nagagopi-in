@@ -51,6 +51,8 @@
 > As a member of the **Forum Of Computer Upcoming Scholars (FOCUS)** — the official student body of the CSE Department. The core objective was to support students across various dimensions, including academic growth, technical skill-building, examination readiness, placement preparation, grievance redressal, and cultural activities involvement.
 
 **🔧 Contributions:**
+- Successfully addressed and resolved **700+ grievances** with an **85% satisfaction rate** 
+- Guided **30+ students** in their self-advancement through mentorship
 - Organized 10+ events (hackathons and learnathons).
 - Chief Designing for 𝗢𝗵𝗮𝘆𝗼𝘂 𝗝𝗮𝗽𝗮𝗻 International Fest.
 - Web Designer for #𝗶𝗻𝗰𝗹𝘂𝗱𝗲 technical Fest.
@@ -78,8 +80,6 @@
 
 - 📈 Achieved **100K+ impressions** on LinkedIn  
 - 📄 Completed **2 Research Papers** in **Artificial Intelligence** and **Blockchain Technologies** 
-- 👨‍🏫 Guided **30+ students** in their self-advancement through mentorship
-- 🛠️ Successfully addressed and resolved **700+ grievances** with an **85% satisfaction rate** 
 - 🥇 **Ranked 1st** in KL University Engineering Entrance Test (KL-ECET) - 2022  
 - 📊 Placed in the **Top 14.3%** in Polytechnic-AP Entrance Test - 2019
 - 🏃‍♂️ Winner of **Athletic Games** (2018–2019) 
