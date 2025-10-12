@@ -45,10 +45,10 @@
 ---
 
 #### Alumni Relations Advisor  
-**FOCUS**  
+**Focus Student Body Governance**  
 📅 *Jun 2023 – May 2025 · 2 yrs*  
 📍 *KL University*  
-> As a member of the **Forum Of Computer Upcoming Scholars (FOCUS)** — the official student body of the CSE Department. The core objective was to support students across various dimensions, including academic growth, technical skill-building, examination readiness, placement preparation, grievance redressal, and cultural activities involvement.
+> As a member of the **Forum Of Computer Upcoming Scholars (FOCUS)** — the official student body governance of CSE Department. The core objective was to support students across various dimensions, including academic growth, technical skill-building, examination readiness, placement preparation, grievance redressal, and cultural activities involvement.
 
 **🔧 Contributions:**
 - Successfully addressed and resolved **700+ grievances** with an **85% satisfaction rate** 
