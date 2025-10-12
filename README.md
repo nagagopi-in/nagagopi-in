@@ -33,10 +33,12 @@
 
 **Skills Used:**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Google App Engine](https://img.shields.io/badge/Google_App_Engine-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Cloud Storage](https://img.shields.io/badge/Google_Cloud_Storage-1a73e8?style=flat&logo=google-cloud&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=rest-api&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
