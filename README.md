@@ -91,7 +91,7 @@
 
 > 🧠 *“I don’t just write code — I design systems that think, learn, and adapt.”*
 
-⚙️ Whether it’s **AI**, **Cloud**, or **Blockchain**, I turn caffeine into Scalable solutions ☕🤖
+⚙️ Whether it’s **AI**, **Cloud**, **Web** or **Blockchain**, I turn caffeine into Scalable solutions ☕🤖
 
 
 ---
