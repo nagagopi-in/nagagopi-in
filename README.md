@@ -78,6 +78,7 @@
 ---
 ### 🏆 **Achievements**
 
+- 🛰️ Cansat India 2025 Finalist
 - 📈 Achieved **100K+ impressions** on LinkedIn  
 - 📄 Completed **2 Research Papers** in **Artificial Intelligence** and **Blockchain Technologies** 
 - 🥇 **Ranked 1st** in KL University Engineering Entrance Test (KL-ECET) - 2022  
