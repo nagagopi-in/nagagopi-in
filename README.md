@@ -26,8 +26,9 @@
 
 #### Technical Project Engineer
 **APCOST - State Council of Science and Technology**  
+📅 *Sept 2025 - Present · 4 mos*  
 🌐 *Andhra Pradesh, India · On-site*  
-📅 *Sept 2025 - Present · 4 mos* 
+ 
 
 #### Web Application Developer
 **Freelance**  
