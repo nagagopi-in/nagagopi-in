@@ -24,9 +24,14 @@
 ---
 ### 💼 **Experience**
 
+#### Technical Project Engineer
+**APCOST - State Council of Science and Technology**
+🌐 *Andhra Pradesh, India · On-site*  
+📅 *Sept 2025 - Present · 4 mos* 
+
 #### Web Application Developer
 **Freelance**  
-📅 *June 2025 – present*  
+📅 *June 2025 – Aug 2025 · 3 mos*  
 > Delivered three end-to-end web applications with clean architecture, responsive design, and a seamless user experience.  
 > Research and implement suitable technologies to build tailored, scalable web applications.
 > Collaborate with clients to turn requirements into functional, maintainable applications.
@@ -60,7 +65,7 @@
 #### Data Analyst Trainee  
 **PrepInsta** · *Internship*  
 📅 *Dec 2023 – Feb 2024 · 3 mos*  
-🌐 *Remote – Noida, Uttar Pradesh*  
+🌐 *Noida, Uttar Pradesh, India · Remote*  
 > Assisted in Data pre-processing and EDA, Analyzed datasets to derive actionable insights and improve data understanding.
 
 **Skills Used:**
