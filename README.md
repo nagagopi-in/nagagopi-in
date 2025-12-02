@@ -25,7 +25,7 @@
 ### 💼 **Experience**
 
 #### Technical Project Engineer
-**APCOST - State Council of Science and Technology**
+**APCOST - State Council of Science and Technology**  
 🌐 *Andhra Pradesh, India · On-site*  
 📅 *Sept 2025 - Present · 4 mos* 
 
