@@ -26,7 +26,7 @@
 
 #### Web Application Developer
 **Freelance**  
-📅 *July 2025 – Sept 2025 · 3 mos*  
+📅 *June 2025 – present*  
 > Delivered three end-to-end web applications with clean architecture, responsive design, and a seamless user experience.  
 > Research and implement suitable technologies to build tailored, scalable web applications.
 > Collaborate with clients to turn requirements into functional, maintainable applications.
