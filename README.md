@@ -26,14 +26,14 @@
 
 #### Technical Project Engineer
 **APCOST - State Council of Science and Technology**  
-📅 *Sept 2025 - Present · 4 mos*  
+📅 *Jul 2025 - Present · 7 mos*  
 🌐 *Andhra Pradesh, India · On-site*  
  
 
 #### Web Application Developer
 **Freelance**  
 📅 *June 2025 – Aug 2025 · 3 mos*  
-> Delivered three end-to-end web applications with clean architecture, responsive design, and a seamless user experience.  
+> Delivered two end-to-end web applications with clean architecture, responsive design, and a seamless user experience.  
 > Research and implement suitable technologies to build tailored, scalable web applications.
 > Collaborate with clients to turn requirements into functional, maintainable applications.
 
