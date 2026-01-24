@@ -26,7 +26,7 @@
 
 #### Technical Project Engineer
 **APCOST - Andhra Pradesh State Council of Science and Technology**  
-📅 *Jul 2025 - Present · 7 mos*  
+📅 *Jun 2025 - Present · 8 mos*  
 🌐 *Andhra Pradesh, India · On-site*  
  
 
