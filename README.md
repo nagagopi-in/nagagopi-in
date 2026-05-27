@@ -24,9 +24,14 @@
 ---
 ### 💼 **Experience**
 
+#### Assistant System Engineer
+**Tata Consultancy Services**  
+📅 *April 2026 - Present*  
+🌐 *Chennai, Tamil Nadu, India* 
+
 #### Technical Project Engineer
 **APCOST - Andhra Pradesh State Council of Science and Technology**  
-📅 *Jun 2025 - Present · 8 mos*  
+📅 *Jun 2025 - March 2026 · 10 mos*  
 🌐 *Andhra Pradesh, India · On-site*  
  
 
